@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webinarCi/static/css/main.073c9b0a.css",
+    "main.js": "/webinarCi/static/js/main.cedab4bb.js",
+    "static/js/787.11a0f2b0.chunk.js": "/webinarCi/static/js/787.11a0f2b0.chunk.js",
+    "static/media/logo.svg": "/webinarCi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webinarCi/index.html",
+    "main.073c9b0a.css.map": "/webinarCi/static/css/main.073c9b0a.css.map",
+    "main.cedab4bb.js.map": "/webinarCi/static/js/main.cedab4bb.js.map",
+    "787.11a0f2b0.chunk.js.map": "/webinarCi/static/js/787.11a0f2b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cedab4bb.js"
+  ]
+}
